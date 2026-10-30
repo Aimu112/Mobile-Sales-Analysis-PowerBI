@@ -51,6 +51,6 @@ Actual business insights can be added after validating the underlying data.
 
 ## 👩‍💻 Author
 
-**Aimu112**
+**Aiman Arooj**
 
 Power BI | Data Analytics | Data Visualization
