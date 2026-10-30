@@ -1,0 +1,112 @@
+# 📱 Mobile Sales Analysis Dashboard | Power BI
+
+## 📌 Project Overview
+
+The **Mobile Sales Analysis Dashboard** is an interactive data visualization project developed using Microsoft Power BI. It provides insights into mobile phone sales performance across different cities, brands, mobile models, payment methods, and time periods.
+
+The dashboard helps users understand sales trends, evaluate product performance, and analyze transaction patterns through interactive charts, KPIs, and visual reports.
+
+## 🎯 Project Objectives
+
+- Analyze overall mobile sales performance.
+- Track total sales, quantities sold, and transactions.
+- Compare sales performance across different cities.
+- Identify monthly sales quantity trends.
+- Analyze customer ratings and payment preferences.
+- Compare sales across mobile brands and models.
+- Understand sales distribution across different days of the week.
+
+## 🛠️ Tools & Technologies
+
+- **Microsoft Power BI** — Dashboard development and visualization
+- **Power Query** — Data cleaning and transformation, if used
+- **DAX** — Measures and calculations, if used
+- **Microsoft Excel / CSV** — Data source, if applicable
+
+## 📊 Dashboard Features
+
+### 1. Key Performance Indicators (KPIs)
+- Total Sales
+- Total Quantity
+- Total Transactions
+- Average Price
+
+### 2. City-Wise Sales Analysis
+A geographical map visualizes sales distribution across different cities.
+
+### 3. Monthly Quantity Trends
+A line chart displays monthly sales quantities to identify fluctuations and seasonal patterns.
+
+### 4. Customer Rating Analysis
+A bar chart compares sales quantities across different customer rating categories.
+
+### 5. Payment Method Analysis
+A pie chart illustrates the distribution of transactions across payment methods, including UPI, debit cards, credit cards, and cash.
+
+### 6. Mobile Model Performance
+A bar chart compares sales performance across different mobile models.
+
+### 7. Sales by Day Name
+An area chart compares sales across different days of the week.
+
+### 8. Interactive Filters
+Users can explore the dashboard using filters for:
+- Mobile Model
+- Payment Method
+- Brand
+- Month
+
+## 📸 Dashboard Preview
+
+![Mobile Sales Dashboard](screenshots/dashboard-preview.png)
+
+## 💡 Key Insights
+
+The dashboard enables users to investigate:
+
+- Overall mobile sales performance.
+- Differences in sales across cities and brands.
+- Monthly variations in the quantity of mobile phones sold.
+- The popularity of different payment methods.
+- Differences in performance across mobile models.
+- Sales patterns across the days of the week.
+
+Specific business conclusions should be added after validating the dashboard's underlying data.
+
+## 🚀 How to Use
+
+1. Download or clone this repository.
+2. Install Microsoft Power BI Desktop.
+3. Open the `.pbix` file in Power BI Desktop.
+4. If prompted, connect to the appropriate data source.
+5. Refresh the data if necessary.
+6. Use the interactive filters to explore the dashboard.
+
+## 📁 Project Structure
+
+```text
+Mobile-Sales-Analysis-PowerBI/
+│
+├── README.md
+├── Mobile-Sales-Dashboard.pbix
+├── screenshots/
+│   └── dashboard-preview.png
+└── data/
+    └── mobile-sales-data.csv
+```
+
+*The files listed above are illustrative; include only the files you actually upload.*
+
+## 📚 Learning Outcomes
+
+Through this project, I explored data visualization, KPI reporting, sales performance analysis, interactive dashboard design, and business intelligence concepts using Power BI.
+
+## 👩‍💻 Author
+
+**Aiman Arooj**
+
+Aspiring Data Analyst | Power BI | Data Visualization | Business Intelligence
+
+---
+
+⭐ If you find this project useful, consider giving the repository a star!
